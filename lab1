@@ -1,1 +1,240 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Web lab1</title>
+</head>
+
+<body style="margin: 0">
+
+    <header>
+        <div style="width: 100%;
+        background: green;
+        padding: 12px 0 10px 0;
+        color: white;
+        letter-spacing: 0.4px;
+        font-family: Courier;
+        font-size: 13pt;
+        text-align: center;">
+            Hello, Header!
+        </div>
+    </header>
+
+
+    <div style="width:500px;
+    background: blue;
+    margin: 0 auto;
+    padding: 20px 25px
+    ">
+
+        <div style="color:white;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 27pt;
+        text-align: left;
+        margin:0 0 20px 0">
+            Hello, content!
+        </div>
+
+        <div style="
+        margin:0 20px 20px 0;
+        float: left;
+        width:100px;
+        height:100px;
+        border:5px solid white;
+        border-radius:15px 0px 25px 0px">
+        </div>
+
+        <div style=";
+        text-align: left;
+        color:white;
+        font-size: 13.5pt;
+        font-family:Arial, sans-serif;">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently
+            with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            </div>
+
+
+        <a href="http://www.csd.tsu.ru ">
+            <div style="margin:10px 0 10px;
+            text-align: center;
+            font-size: 13.5pt;
+            font-family: Arial, sans-serif;
+            color:red;
+            text-decoration: underline;"> 
+                www.csd.tsu.ru
+            </div>
+        </a>
+        
+        <div style="color:white;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 20pt;
+        text-align: left;
+        letter-spacing: 0.25px;
+        word-spacing: 1px;
+        margin:0 0 0 0">
+            <span style="color: red"> Here &nbsp;</span>is &nbsp;the &nbsp;list:
+        </div>
+        
+        <ul style="color:white;
+        font-family: Arial, sans-serif;
+        font-size: 13.5pt;
+        line-height: 1.68;
+        margin:0 0 0 0;">
+            <li>Value 1</li>
+            <li  style="letter-spacing: 5px;">Value 2</li>
+            <li>Value 3</li>
+        </ul>
+        
+        <div style="
+        float: right;
+        width:141px;
+        height:111px;
+        border:1px solid lightgray;
+        padding:1.5px;
+        font-size: 13.5pt;
+        margin:11px 0 0 0">
+        
+        <div style="
+            background: green;
+            float: left;
+            width:42px;
+            height:69px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:47px auto ">
+           1
+        </div>
+        </div>
+        <div style="
+            float: left;
+            width:42px;
+            height:32px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:10px auto ">
+           2
+        </div>
+        </div>
+        <div style="
+            float: left;
+            width:42px;
+            height:32px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:10px auto ">
+           3
+        </div>
+        </div>
+        <div style="
+            float: left;
+            width:42px;
+            height:32px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:10px auto ">
+           4
+        </div>
+        </div>
+        <div style="
+            float: left;
+            width:42px;
+            height:32px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:10px auto ">
+           5
+        </div>
+        </div>
+        <div style="
+            float: left;
+            width:42px;
+            height:32px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:10px auto ">
+           6
+        </div>
+        </div>
+         <div style="
+            background: red;
+            float: left;
+            width:89px;
+            height:32px;
+            border:1px solid lightgray;
+            margin:1.5px">
+            <div style="color:white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        min-height: 123px;
+        margin:10px auto ">
+           7
+        </div>
+        </div>
+        </div>
+        
+        <div style="color:white;
+            font-family: sans-serif;
+            text-align: left;
+            letter-spacing: -0.3px;
+            word-spacing: 1px;
+            line-height: 1.65;
+            margin:7px 0 -25px 0">
+            <span style="font-size: 16pt;"><b>Here are some visual styles:</b><br /></span>
+            <span style="font-size: 14pt;"><i>Italic</i><br /></span>
+            <span style="font-size: 14pt;"><b>Bold</b><br /></span>
+            <span style="font-size: 14pt;"><u>UnderLined</u><br /></span>
+            <span style="font-size: 14pt;line-height: 2.7;"><s>Line through</s></span>
+        </div>
+
+ 	<img style="float: right;
+        	margin:-21px 0"
+        	src="images.png">
+
+    </div>
+
+
+    <footer>
+        <div style="float: left;
+        width:100%;
+        background: green ">
+            <div style=" color: white;
+            font-family: Arial;
+            font-size: 14pt;
+            text-align: center;
+            letter-spacing: -0.3px;
+            padding: 9px;">
+            Hello, Footer!
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
